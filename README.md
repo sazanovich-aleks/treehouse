@@ -1,2 +1,2 @@
 # treehouse
-Выполнение задач из teattreehouse
+Выполнение задач из teamtreehouse по языку javascript
